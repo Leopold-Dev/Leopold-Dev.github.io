@@ -1,4 +1,9 @@
+# Readme
+
+Hello, everyone. It's a simple demo of CV and blog of LeopoldSCUT. Something funny is coming! Won't wait too long.
+
 ## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/LeopoldSCUT/LeopoldSCUT.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

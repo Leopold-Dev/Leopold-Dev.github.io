@@ -1,6 +1,6 @@
 # Readme
 
-Hello, everyone. It's a simple demo of CV and blog of LeopoldSCUT. Something funny is coming! Won't wait too long.
+Hello, everyone. It's a simple demo of CV and blog of Leopold Lee. Something funny is coming! Won't wait too long.
 
 ## Welcome to GitHub Pages
 

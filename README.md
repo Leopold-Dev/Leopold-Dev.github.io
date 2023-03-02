@@ -1,11 +1,11 @@
 # Readme
 
-Hello, everyone. It's a simple demo of CV and blog of Leopold Lee. Something funny is coming! Won't wait too long.
+Hello, everyone. It's a simple demo of CV and blog of Liyao Li. Something funny is coming! Won't wait too long.
 
 ## Welcome to GitHub Pages
 
 
-You can use the [editor on GitHub](https://github.com/LeopoldSCUT/LeopoldSCUT.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/liyaooi/liyaooi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
